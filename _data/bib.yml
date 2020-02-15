@@ -1,0 +1,183 @@
+- year: Forthcoming
+  papers:
+    - title: "A Corpus for Detecting High-Context Clinical Indications in Intensive Care Patient Notes Focusing on Frequently Readmitted Patients"
+      authors: Edward Moseley, Joy Wu, Jonathan Welt, John Foote Jr., Patrick Tyler, David Grant, Eric Carlson, <b>Sebastian Gehrmann</b>, Franck Dernoncourt, Leo Celi
+      venue: "Accepted at LREC"
+
+    - title: "exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models"
+      authors: Benjamin Hoover, Hendrik Strobelt, <b>Sebastian Gehrmann</b>
+      links:
+        - title: Preprint
+          url: https://arxiv.org/pdf/1910.05276
+
+    - title: "Memory-Augmented Recurrent Neural Networks Can Learn Generalized Dyck Languages"
+      authors: Mirac Suzgun, <b>Sebastian Gehrmann</b>, Yonatan Belinkov, Stuart Shieber
+      links:
+        - title: Preprint
+          url: https://arxiv.org/pdf/1911.03329
+
+    - title: "Encoder-Agnostic Adaptation for Conditional Language Generation"
+      authors: Zachary M Ziegler, Luke Melas-Kyriazi, <b>Sebastian Gehrmann</b>, Alexander M Rush
+      links:
+        - title: Preprint
+          url: https://arxiv.org/pdf/1908.06938
+
+- year: 2019
+  papers:
+    - title: "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference"
+      authors: <b>Sebastian Gehrmann</b>*, Hendrik Strobelt*, Robert Krüger, Hanspeter Pfister, Alexander M Rush
+      venue: "IEEE Transactions on Visualization and Computer Graphics (VAST 2019)"
+      links:
+        - title: Paper
+          url: https://arxiv.org/pdf/1907.10739
+
+    - title: "GLTR: Statistical Detection and Visualization of Generated Text"
+      authors: <b>Sebastian Gehrmann</b>, Hendrik Strobelt, Alexander M Rush
+      venue: "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations"
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/P19-3019/
+        - title: Demo
+          url: http://gltr.io/
+        - title: Code
+          url: https://github.com/HendrikStrobelt/detecting-fake-text
+      awards:
+        - Nominated for Best Demo
+
+    - title: LSTM Networks Can Perform Dynamic Counting
+      authors: Mirac Suzgun, <b>Sebastian Gehrmann</b>, Yonatan Belinkov, Stuart Shieber
+      venue: Deep Learning and Formal Languages Workshop at ACL 19
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/W19-3905
+
+    - title: "Evaluating an Automated Mediator for Joint Narratives in a Conflict Situation"
+      authors: Massimo Zancanaro, Oliviero Stock, Gianluca Schiavo, Alessandro Cappelletti, <b>Sebastian Gehrmann</b>, Daphna Canetti, Ohad Shaked, Shani Fachter, Rachel Yifat, Ravit Mimran
+      venue: "Behaviour & Information Technology"
+      links:
+        - title: Paper
+          url: https://arxiv.org/pdf/1906.11597
+
+    - title: Improving Human Text Comprehension through Semi-Markov CRF-based Neural Section Title Generation
+      authors: <b>Sebastian Gehrmann</b>, Steven Layne, Franck Dernoncourt
+      venue: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/N19-1168
+
+    - title: Interactive Visual Exploration of Latent Space (IVELS) for Peptide Auto-Encoder Model Selection
+      authors: Tom Sercu, <b>Sebastian Gehrmann</b>, Hendrik Strobelt, Payel Das, Inkit Padhi, Cicero Dos Santos, Kahini Wadhawan, Vijil Chenthamarakshan
+      venue: ICLR 2019 Workshop on Deep Generative Models for Highly Structured Data
+      links:
+        - title: Paper
+          url: https://openreview.net/pdf?id=Hkl8EILFdN
+
+    - title: Generating Abstractive Summaries with Finetuned Language Models
+      authors: <b>Sebastian Gehrmann</b>*, Zachary Ziegler*, Alexander  Rush
+      venue: Proceedings of the 12th International Conference on Natural Language Generation (Challenge Track)
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/W19-8665
+
+    - title: "Margin Call: an Accessible Web-based Text Viewer with Generated Paragraph Summaries in the Margin"
+      authors: Nabah Rizvi, <b>Sebastian Gehrmann</b>, Franck Dernoncourt
+      venue: Proceedings of the 12th International Conference on Natural Language Generation (Demo Track)
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/W19-8632
+
+- year: 2018
+  papers:
+    - title: Bottom-Up Abstractive Summarization
+      authors: <b>Sebastian Gehrmann</b>, Yuntian Deng, Alexander Rush
+      venue: EMNLP 2018
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/D18-1443/
+
+        - title: Code
+          url: https://github.com/sebastianGehrmann/bottom-up-summary
+
+    - title: Debugging Sequence-to-Sequence Models with Seq2Seq-Vis
+      authors: Hendrik Strobelt*, <b>Sebastian Gehrmann</u>*, Michael Behrisch, Adam Perer, Hanspeter Pfister, Alexander Rush
+      venue: BlackboxNLP workshop at EMNLP 2018
+      links:
+        - title: Paper
+          url: /assets/files/blackboxnlp2018.pdf
+        - title: Demo
+          url: http://seq2seq-vis.io/
+
+    - title: End-to-End Content and Plan Selection for Natural Language Generation
+      authors: <b>Sebastian Gehrmann</b>, Falcon Dai, Henry Elder, Alexander Rush
+      venue: Proceedings of the 11th International Conference on Natural Language Generation
+      awards:
+        - Best ROUGE/METEOR/CIDEr
+      links:
+        - title: Paper
+          url: https://www.aclweb.org/anthology/W18-6505/
+        - title: Code
+          url: https://github.com/sebastianGehrmann/diverse_ensembling
+        - title: Challenge Website
+          url: http://www.macs.hw.ac.uk/InteractionLab/E2E/#results
+
+    - title: "Towards Controllable Generation of Diverse Natural Language"
+      authors: Henry Elder, <b>Sebastian Gehrmann</b>, Alexander O’Connor, Qun Liu
+      venue: Proceedings of the 11th International Conference on Natural Language Generation (E2E NLG challenge track)
+      links:
+        - title: Paper
+          url: http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-Adapt.pdf
+        - title: Challenge Website
+          url: http://www.macs.hw.ac.uk/InteractionLab/E2E/#results
+
+    - title: "Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models"
+      authors: Hendrik Strobelt*, <b>Sebastian Gehrmann</b>*, Michael Behrisch, Adam Perer, Hanspeter Pfister, Alexander Rush
+      venue: IEEE Transactions on Visualization and Computer Graphics (VAST 2018)
+      awards:
+        - Honorable Mention
+      links:
+        - title: Paper
+          url: https://arxiv.org/abs/1804.09299
+        - title: Demo
+          url: http://seq2seq-vis.io/
+        - title: Code
+          url: https://github.com/HendrikStrobelt/Seq2Seq-Vis
+
+    - title: "Comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives"
+      authors: <b>Sebastian Gehrmann</b>, Franck Dernoncourt, Yeran Li, Eric Carlson, Joy Wu, Jonathan Welt, John Foote Jr., Edward Moseley, David Grant, Patrick Tyler, Leo Celi
+      venue: PLoS One
+      links:
+        - title: Paper
+          url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192360
+        - title: Code
+          url: https://github.com/sebastianGehrmann/phenotyping
+        - title: Data
+          url: https://physionet.org/works/AnnotatedClinicalTextsACTfromMIMIC/
+
+- year: 2017
+  papers:
+    - title: "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+      authors: Hendrik Strobelt*, <b>Sebastian Gehrmann</b>*, Hanspeter Pfister, Alexander Rush
+      venue: IEEE Transactions on Visualization and Computer Graphics (InfoVis 2017)
+      links:
+        - title: Paper
+          url: https://arxiv.org/abs/1606.07461
+        - title: Demo
+          url: http://lstm.seas.harvard.edu/
+        - title: Code
+          url: https://github.com/HendrikStrobelt/LSTMVis
+
+    - title: "Behind the Scenes: A Medical Natural Language Processing Project"
+      authors: Joy Wu, Franck Dernoncourt, <b>Sebastian Gehrmann</b>, Patrick Tyler, Edward Moseley, Eric Carlson, David Grant, Yeran Li, Jonathan Welt, Leo Celi
+      venue: International Journal of Medical Informatics
+      links:
+        - title: Paper
+          url: https://www.ncbi.nlm.nih.gov/pubmed/29500024
+
+- year: 2015
+  papers:
+    - title: "Deploying AI Methods to Support Collaborative Writing: a Preliminary Investigation"
+      authors: <b>Sebastian Gehrmann</b>, Lauren Urke, Ofra Amir, Barbara Grosz
+      venue: Proceedings of the 33rd Annual ACM Conference, Extended Abstracts on Human Factors in Computing Systems
+      links:
+        - title: Paper
+          url: https://dash.harvard.edu/bitstream/handle/1/29399610/AmiretalDeployingAIMethods2014.pdf?sequence=3

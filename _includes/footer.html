@@ -1,0 +1,44 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <ul class="footer-col footer-col-1">
+      <li>
+        <span class="author">
+          {{ site.author.name }}
+        </span>
+      </li>
+
+      <li>
+        Sebastian is a research scientist at Google AI, working on natural
+        language generation and interpretability of deep learning models.
+      </li>
+    </ul>
+
+    {% if site.pitch %}
+    <nav>
+      {% include nav_menu.html class="footer-col footer-col-2"%} {% include
+      contactlist.html class="single-col" %}
+    </nav>
+    {% else %} {% include contactlist_footer.html class="footer-col
+    footer-col-2" %} {% endif %}
+
+    <!-- <div class="bottom">
+      <div class="tech">
+        <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> +
+        <a target="_blank" href="https://github.com/gaalcaras/academic"
+          >Academic</a
+        >
+        {% if site.repo %} +
+        <a target="_blank" href="{{ site.repo }}">Source</a>
+        {% endif %}
+      </div>
+    </div> -->
+  </div>
+</footer>
+
+{% if page.layout == "post" %}
+<script
+  type="text/javascript"
+  async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"
+></script>
+{% endif %}

@@ -1,0 +1,51 @@
+<span class="contact-list-title"> </span>
+
+{% if site.author.github_username2 %}
+<span class="cl-item">
+  {% include _icons/github.html username=site.author.github_username %}
+</span>
+{% endif %}{% if site.author.linkedin_username %}
+<span class="cl-item">
+  {% include _icons/linkedin.html username=site.author.linkedin_username %}
+</span>
+{% endif %} {% if site.author.twitter_username %}
+<span class="cl-item">
+  {% include _icons/twitter.html username=site.author.twitter_username %}
+</span>
+{% endif %} {% if site.author.scholar_link %}
+<span class="cl-item">
+  {% include _icons/website.html username=site.author.scholar_link %}
+</span>
+{% endif %}
+<span class="cl-item">
+  {% include _icons/file.html %}
+</span>
+{% if site.author.email %}
+<span class="cl-item">
+  {% include _icons/email.html username=site.author.email %}
+</span>
+{% endif %}
+
+<!-- <ul class="contact-list {{ include.class }}">
+  {% if site.author.github_username2 %}
+  <li>
+    {% include _icons/github.html username=site.author.github_username %}
+  </li>
+  {% endif %}{% if site.author.linkedin_username %}
+  <li>
+    {% include _icons/linkedin.html username=site.author.linkedin_username %}
+  </li>
+  {% endif %} {% if site.author.twitter_username %}
+  <li>
+    {% include _icons/twitter.html username=site.author.twitter_username %}
+  </li>
+  {% endif %} {% if site.author.scholar_link %}
+  <li>
+    {% include _icons/file.html username=site.author.scholar_link %}
+  </li>
+  {% endif %} {% if site.author.email %}
+  <li>
+    {% include _icons/email.html username=site.author.email %}
+  </li>
+  {% endif %}
+</ul> -->
