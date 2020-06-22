@@ -1,15 +1,40 @@
-- year: Forthcoming
+- year: 2020
   papers:
+    - title: "Causal mediation analysis for interpreting neural NLP: The case of gender bias"
+      authors: Jesse Vig*, <b>Sebastian Gehrmann*</b>, Yonatan Belinkov*, Sharon Qian, Daniel Nevo, Yaron Singer, Stuart Shieber
+      links:
+        - title: Preprint
+          url: https://arxiv.org/abs/2004.12265
+
+    - title: "Accelerating Antimicrobial Discovery with Controllable Deep Generative Models and Molecular Dynamics"
+      authors: Payel Das, Tom Sercu, Kahini Wadhawan*, Inkit Padhi*; <b>Sebastian Gehrmann*</b>, Flaviu Cipcigan, Vijil Chenthamarakshan, Hendrik Strobelt, Cicero dos Santos, Pin-Yu Chen, Yi Yan Yang, Jeremy Tan, James Hedrick, Jason Crain, Aleksandra Mojsilovic
+      links:
+        - title: Preprint
+          url: https://www.sciencedirect.com/science/article/abs/pii/S1876285920302473
+
+    - title: "Parent perspectives in shared decision-making for children with medical complexity"
+      authors: Jody Lin, Catherine Clark, Bonnie Halpern-Felsher, Paul Bennett, Shiri Assis-Hassid, Ofra Amir, Yadira Nunez, Nancy Cleary, <b>Sebastian Gehrmann</b>, Barbara Grosz, Lee Sanders
+      venue: Academic Pediatrics
+      links:
+        - title: Paper (Paywall)
+          url: https://www.sciencedirect.com/science/article/abs/pii/S1876285920302473
+
     - title: "A Corpus for Detecting High-Context Clinical Indications in Intensive Care Patient Notes Focusing on Frequently Readmitted Patients"
       authors: Edward Moseley, Joy Wu, Jonathan Welt, John Foote Jr., Patrick Tyler, David Grant, Eric Carlson, <b>Sebastian Gehrmann</b>, Franck Dernoncourt, Leo Celi
-      venue: "Accepted at LREC"
+      venue: "Proceedings of The 12th Language Resources and Evaluation Conference."
+      links:
+        - title: Paper
+          url: http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.170.pdf
 
     - title: "exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models"
       authors: Benjamin Hoover, Hendrik Strobelt, <b>Sebastian Gehrmann</b>
+      venue: ACL Demos 2020
       links:
-        - title: Preprint
+        - title: Paper
           url: https://arxiv.org/pdf/1910.05276
 
+- year: 2019
+  papers:
     - title: "Memory-Augmented Recurrent Neural Networks Can Learn Generalized Dyck Languages"
       authors: Mirac Suzgun, <b>Sebastian Gehrmann</b>, Yonatan Belinkov, Stuart Shieber
       links:
@@ -22,8 +47,6 @@
         - title: Preprint
           url: https://arxiv.org/pdf/1908.06938
 
-- year: 2019
-  papers:
     - title: "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference"
       authors: <b>Sebastian Gehrmann</b>*, Hendrik Strobelt*, Robert Krüger, Hanspeter Pfister, Alexander M Rush
       venue: "IEEE Transactions on Visualization and Computer Graphics (VAST 2019)"
