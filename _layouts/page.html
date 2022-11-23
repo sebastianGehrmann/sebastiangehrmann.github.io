@@ -17,16 +17,15 @@ layout: default
     itemscope
     itemtype="http://schema.org/BlogPosting"
   >
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
+    <div class="post-content" itemprop="articleBody">{{ content }}</div>
   </article>
-  <div class="contact-list">
-    {% include contactlist.html %}
-  </div>
+  <div class="contact-list">{% include contactlist.html %}</div>
   <div class="publication-list">
     <h2>Publications</h2>
-    <h3>This is outdated, please check my google scholar for an up-to-date list :)</h3>
+    <h4>
+      This list is outdated, please check my google scholar for an up-to-date
+      list :)
+    </h4>
     {% for year in site.data.bib %}
     <h3 class="pub-year">{{year.year}}</h3>
     {% for paper in year.papers%}
