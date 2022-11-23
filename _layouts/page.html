@@ -22,10 +22,15 @@ layout: default
   <div class="contact-list">{% include contactlist.html %}</div>
   <div class="publication-list">
     <h2>Publications</h2>
-    <h4>
-      This list is outdated, please check my google scholar for an up-to-date
-      list :)
-    </h4>
+    <b>
+      This list is outdated, please check my
+      <a
+        href="https://scholar.google.com/citations?user=x6KQCV8AAAAJ"
+        target="_blank"
+        >google scholar</a
+      >
+      for an up-to-date list
+    </b>
     {% for year in site.data.bib %}
     <h3 class="pub-year">{{year.year}}</h3>
     {% for paper in year.papers%}
