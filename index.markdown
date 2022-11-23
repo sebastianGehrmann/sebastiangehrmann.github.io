@@ -5,7 +5,7 @@ layout: page
 I am Head of NLP in the CTO office at Bloomberg, where I support the development of language technology across the company.
 Formerly, I was a researcher at Google and I hold a <a href="/assets/files/gehrmann_dissertation.pdf" target="_blank">Ph.D. from Harvard</a>.
 
-My research interests include natural language generation, model evaluation, and interpretability. I particilarly like working on large multi-disciplinary collaborations, for example the <a href="https://gem-benchmark.com/" target="_blank">GEM benchmark</a> for which we are frequently organizing workshops and are looking for participants.
+My research interests include natural language generation, model evaluation, and interpretability. I particilarly like working on large multi-disciplinary collaborations, for example the <a href="https://gem-benchmark.com/" target="_blank">GEM benchmark</a>.
 
 You can find slides for some of my recent talks here:
 
