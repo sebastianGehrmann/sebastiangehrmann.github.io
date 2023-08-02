@@ -11,7 +11,7 @@ You can find slides for some of my recent talks here:
 
 - <a href="/assets/files/Stanford NLP Seminar.pdf" target="_blank">Do we know what we don't know? The state of evaluation in NLP</a>, Stanford NLP Seminar, 2022
 - <a href="/assets/files/[SIGGEN_SICSA] GEMv2.pdf" target="_blank">Measuring the Quality of Language Generation Systems</a>, SIGGEN/SICSA Seminar, 2022
-- <a href="/assets/files/gehrmann_dissertation.pdf" target="_blank">It’s time to fix evaluation
+- <a href="/assets/files/NewSum'21_ Breaking News_ It’s time to fix the evaluation of generated text (1).pdf" target="_blank">It’s time to fix evaluation
   of generated text</a>, Keynote at the Summarization Workshop at EMNLP 2021
 - <a href="/assets/files/acl_2020_interpretability_tutorial.pdf" target="_blank">Tutorial on Interpretability</a> at ACL 2020 with Yonatan Belinkov and Ellie Pavlick
 
