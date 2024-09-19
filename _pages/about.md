@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Technical Strategist for Responsible AI in the CTO office at Bloomberg where I develop and implement the vision and framework for Responsible AI at the company. My goal is to shape policies and practices to enable and facilitate the development of AI solutions that are trustworthy, transparent, and reliable.
+I am the Technical Strategist for Responsible AI in the CTO office at Bloomberg where I develop and implement the vision and framework for Responsible AI at the company. My goal is to shape policies and practices to enable and facilitate the development of AI solutions that are trustworthy, transparent, and reliable.
 Previously, as Head of NLP, I directed the development and adoption of language technology. Before joining Bloomberg, I was a researcher at Google working on evaluation of large language models. I hold a <a href="/files/gehrmann_dissertation.pdf" target="_blank">Ph.D. from Harvard University</a>.
 
 _If you are interested in positions at Bloomberg, please check our <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">AI careers page</a>._
 
 # Research
 
-My research interests include natural language generation, model evaluation, and interpretability. I particilarly like working on large multi-disciplinary collaborations, for example the <a href="https://gem-benchmark.com/" target="_blank">GEM benchmark</a>. I further was able to contribute to four LLM projects: PaLM, PaLM 2, BLOOM, and BloombergGPT.
+My research interests include natural language generation, model evaluation, and interpretability. I particilarly like working on large multi-disciplinary collaborations, for example the <a href="https://gem-benchmark.com/" target="_blank">GEM benchmark</a>. I was able to contribute to multiple LLM projects such as PaLM, PaLM 2, BLOOM, and BloombergGPT. My interactive visualization tools like <a href="https://gltr.io/" target="_blank">GLTR</a>, <a href="https://lstmvis.vizhub.ai/" target="_blank">LSTMVis</a>, and <a href="https://huggingface.co/spaces/exbert-project/exbert" target="_blank">exBERT</a> have had over a million users and are widely used to teach neural networks for NLP.
 
 You can find a full list of papers on my <a href="https://scholar.google.com/citations?hl=en&user=x6KQCV8AAAAJ">Google Scholar</a>.
 
