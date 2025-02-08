@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the Technical Strategist for Responsible AI in the CTO office at Bloomberg where I develop and implement the vision and framework for Responsible AI at the company. My goal is to shape policies and practices to enable and facilitate the development of AI solutions that are trustworthy, transparent, and reliable.
+I am the Head of Responsible AI in the office of the CTO at Bloomberg. I lead the development and implementation of the vision and framework for Responsible AI at the company. My goal is to shape policies and practices to enable and facilitate the development of AI solutions that are trustworthy, transparent, and reliable.
 Previously, as Head of NLP, I directed the development and adoption of language technology. Before joining Bloomberg, I was a researcher at Google working on evaluation of large language models. I hold a <a href="/files/gehrmann_dissertation.pdf" target="_blank">Ph.D. from Harvard University</a>.
 
 _If you are interested in positions at Bloomberg, please check our <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">AI careers page</a>._
